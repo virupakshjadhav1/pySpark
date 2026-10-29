@@ -1,0 +1,5 @@
+source,destination
+https://github.com/virupakshjadhav1/pySpark/raw/refs/heads/main/customers.csv,/Volumes/company_prod/dev/landinglayer/customers.csv
+https://github.com/virupakshjadhav1/pySpark/raw/refs/heads/main/order_items.csv,/Volumes/company_prod/dev/landinglayer/order_items.csv
+https://github.com/virupakshjadhav1/pySpark/raw/refs/heads/main/orders.csv,/Volumes/company_prod/dev/landinglayer/orders.csv
+https://github.com/virupakshjadhav1/pySpark/raw/refs/heads/main/products.csv,/Volumes/company_prod/dev/landinglayer/products.csv
